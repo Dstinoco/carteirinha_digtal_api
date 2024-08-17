@@ -1,0 +1,11 @@
+Pillow
+Flask
+Flask-JWT-Extended
+PyJWT
+pymssql
+Werkzeug
+Flask-SQLAlchemy
+passlib
+pyodbc
+flask_restx
+pygeoip
